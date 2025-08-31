@@ -70,6 +70,5 @@ export class BootResolution extends Component {
 
     // 等方スケール（X=Y）→ UI の比率を保ったまま全体を引き下げ
     this.uiRoot.setScale(scale, scale, 1);
-    
   };
 }
