@@ -52,7 +52,6 @@ export class GamaManager extends Component {
             this.moneyLabel.string = `${value}`;
         }
     }
-    
 }
 
 
